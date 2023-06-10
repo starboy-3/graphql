@@ -1,12 +1,12 @@
-# GraphQL Python Mafia game
+# GraphQL for mafia server
 
-### Запуск сервера
+### Запустить сервер
 ```
 docker build . -t starboy369/graphql-mafia
 docker run -p 8080:8080 starboy369/graphql-mafia
 ```
 
-### Запуск клиента
+### Запустить клиент
 
 ```
 python3 -m pip install -r requirements.txt
