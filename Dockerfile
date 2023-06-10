@@ -1,6 +1,6 @@
 FROM python:latest
 
-WORKDIR /usr/src/app
+WORKDIR /graphql-server
 
 EXPOSE 8080
 
